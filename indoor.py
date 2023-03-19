@@ -1,2 +1,2 @@
-hometown=input("where you were born?").casefold()
-print(hometown)
+uc=input("Please write down something uppercase").casefold()
+print(uc)
